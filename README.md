@@ -17,7 +17,7 @@ Applied Mathematics projects designed to keep me afloat in the realm of ML, NN, 
 - [ ] Naive Search
   - [ ] Debug and confirm all naive search implementations
   - [ ] Algorithms: Brute-force, KNN, KMeans
-- [ ] High dimensional search
+- [ ] High Performance Search
   - [ ] ScaNN
   - [ ] Faiss
   - [ ] HNSW
